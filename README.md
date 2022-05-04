@@ -1,2 +1,2 @@
-# device_design
+# Device Design
 Repository for my class Device Design
